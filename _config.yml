@@ -15,7 +15,7 @@ theme_settings:
      <p>Ruby on Rails<br><small>e muito mais em pt-br.</small></p>
   header_text_feature_image: assets/img/ruby-on-rails.png
   footer_text: >
-    Veja o <a href="https://github.com/rubynostrilhos/rubynostrilhos.github.io">código</a> desse blog no github.
+    "O futuro do Ruby é brilhante, mas depende de nós." <a href="https://twitter.com/rafaelfranca">Rafael Fraça</a>
 
   # Icons
   rss: false
@@ -23,7 +23,7 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "rubynostrilhos"
   flickr:
   gitlab:
   github: "rubynostrilhos"
@@ -68,12 +68,6 @@ theme_settings:
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
-
-# PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
