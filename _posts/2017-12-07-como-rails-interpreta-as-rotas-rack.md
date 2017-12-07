@@ -88,7 +88,7 @@ end
 Para saber quais middlewares a sua app Rails use basta rodar esse comando:
 
 ```bash
-$ bin/rails middleware
+$ rake middleware
 ```
 
 Você verá um retorno assim:
