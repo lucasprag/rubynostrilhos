@@ -1,5 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
+name: Ruby nos trilhos
+description: Ruby on Rails e muito mais em pt-br
 url: "http://rubynostrilhos.com.br/"
 
 theme_settings:
@@ -18,7 +20,7 @@ theme_settings:
     "O futuro do Ruby é brilhante, mas depende de nós." <a href="https://twitter.com/rafaelfranca">Rafael Fraça</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
