@@ -1,56 +1,40 @@
 <header class="site-header">
-    
-    <!-- Logo and title -->
-	<div class="branding">
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
-		</a>
-
-		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
-		</h1>
-	</div>
-    
-    <!-- Toggle menu -->
-    <nav class="clear">
-    <a id="pull" class="toggle" href="#">
-    <i class="fa fa-bars fa-lg"></i>
+  <div class="branding">
+    <a href="{{ site.baseurl }}/">
+      <img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
     </a>
-    
-    <!-- Menu -->
+  </div>
+
+  <nav class="clear">
+    <a id="pull" class="toggle" href="#">
+      <i class="fa fa-bars fa-lg"></i>
+    </a>
+
     <ul>
-        {% for page in site.pages %}
+      {% for page in site.pages %}
         {% if page.title and page.hide != true %}
-        <li>
+          <li>
             <a class="clear" href="{{ page.url | relative_url }}">
-                {{ page.title }}
+              {{ page.title }}
             </a>
-        </li>
+          </li>
         {% endif %}
-        {% endfor %} 
-        {% if site.theme_settings.portfolio %}
+      {% endfor %}
+      {% if site.theme_settings.search %}
         <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/portfolio">
-                Portfolio
-            </a>
+          <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
+            <i class="fa fa-search" aria-hidden="true"></i>
+          </a>
         </li>
-        {% endif %}
-        {% if site.theme_settings.search %}
+      {% endif %}
+      {% if site.theme_settings.tags %}
         <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
-                <i class="fa fa-search" aria-hidden="true"></i>
-            </a>
+          <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
+            <i class="fa fa-tags" aria-hidden="true"></i>
+          </a>
         </li>
-        {% endif %}
-        {% if site.theme_settings.tags %}
-        <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
-                <i class="fa fa-tags" aria-hidden="true"></i>
-            </a>
-        </li>
-        {% endif %}
-        
+      {% endif %}
     </ul>
-        
-	</nav>
+
+  </nav>
 </header>

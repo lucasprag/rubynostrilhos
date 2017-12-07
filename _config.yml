@@ -1,24 +1,21 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "http://rubynostrilhos.com.br/"
 
-# THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
-  avatar: assets/img/triangle.svg
+  title: Ruby nos trilhos
+  avatar: assets/img/ruby-nos-trilhos-logo.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Ruby on Rails e muito mais em pt-br."
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Ruby on Rails<br><small>e muito mais em pt-br.</small></p>
+  header_text_feature_image: assets/img/ruby-on-rails.png
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    Veja o <a href="https://github.com/rubynostrilhos/rubynostrilhos.github.io">código</a> desse blog no github.
 
   # Icons
   rss: false
@@ -29,7 +26,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "rubynostrilhos"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -39,19 +36,17 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "rubynostrilhos"
   wordpress:
   youtube:
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  portfolio: true
   search: true
-  tags: true
-  
-  
+  tags: false
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"

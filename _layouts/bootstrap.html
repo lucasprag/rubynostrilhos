@@ -1,5 +1,5 @@
---- 
-layout: default 
+---
+layout: default
 ---
 
 <!-- Bootstrap-3.3.7 isolation CSS -->
@@ -9,30 +9,24 @@ layout: default
 <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
 
 <article {% if page.feature-img %}class="feature-image" {% endif %}>
-    <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
-        <h1 class="title">{{ page.title }}</h1> {% if page.subtitle %}
-        <h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-    </header>
+  <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <h1 class="title">{{ page.title }}</h1> {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+  </header>
 
-    {% if page.description %}
+  {% if page.description %}
     <section class="post-content">
-        {{ page.description }}
+      {{ page.description }}
     </section>
-    {% endif %}
+  {% endif %}
 
-
-
-    <!-- Bootstrap will work within this div -->
-    <section>
-        <div class="bootstrap-iso">
-            <div class="col-md-1"></div>
-            <div class="col-md-10 centered">
-            {{ content }}
-            </div>    
-            <div class="col-md-1"></div>
-        </div>
-    </section>
-
-    
-    
+  <section>
+    <div class="bootstrap-iso">
+      <div class="col-md-1"></div>
+      <div class="col-md-10 centered">
+        {{ content }}
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </section>
 </article>
