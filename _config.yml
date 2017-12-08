@@ -1,7 +1,5 @@
 # SITE CONFIGURATION
 baseurl: ""
-name: Ruby nos trilhos
-description: Ruby on Rails e muito mais em pt-br
 url: "http://rubynostrilhos.com.br/"
 
 theme_settings:
