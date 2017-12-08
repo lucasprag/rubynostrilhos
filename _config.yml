@@ -1,12 +1,15 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://rubynostrilhos.com.br/"
+url: "http://rubynostrilhos.com.br"
+title: "Ruby nos trilhos"
+author: "Lucas Oliveira"
+description: "Ruby on Rails e muito mais em pt-br."
 
 theme_settings:
   # Meta
-  title: Ruby nos trilhos
-  avatar: assets/img/ruby-nos-trilhos-logo.jpg
-  favicon: assets/favicon.ico
+  title: "Ruby nos trilhos"
+  avatar: "assets/img/ruby-nos-trilhos-logo.jpg"
+  favicon: "assets/favicon.ico"
   gravatar: # Email MD5 hash
   description: "Ruby on Rails e muito mais em pt-br."
 
