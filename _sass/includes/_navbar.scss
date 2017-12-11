@@ -6,8 +6,9 @@
   float: left;
   width: 100%;
 
-  a {
+  li a {
     color: $header-link-color;
+    padding: 0;
   }
 
   .avatar {
@@ -30,8 +31,9 @@
     li {
       display: inline;
       float: left;
-      margin-right: 0.4em;
+      margin-right: 30px;
     }
+
     a {
       &:hover {
         color: $link-color;
@@ -49,7 +51,7 @@
 }
 
 
-// To clear things when we float the element inisde nav and ul 
+// To clear things when we float the element inisde nav and ul
 .clear {
   *zoom: 1;
 
@@ -79,6 +81,10 @@
     }
     .site-title {
       margin-top: 7px;
+    }
+
+    li a {
+      padding: 10px 20px;
     }
   }
 
