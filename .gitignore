@@ -2,6 +2,7 @@
 *.manifest
 *.spec
 
+.DS_Store
 
 _site/**
 _site
