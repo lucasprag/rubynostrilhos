@@ -7,7 +7,7 @@ feature-img: "assets/img/posts/ajuda.jpg"
 
 Existe um [forum](https://github.com/rubynostrilhos/forum/issues) para ajudar e receber ajuda sobre Ruby, Rails e relacionados.
 
-Este forum é fortemente baseado em projetos que já vem dando muito certo [frontendbr/forum](https://github.com/frontendbr/forum) e [training-center/forum](https://github.com/training-center/forum).
+Este forum é fortemente baseado em projetos que já vem dando muito certo como [frontendbr/forum](https://github.com/frontendbr/forum) e [training-center/forum](https://github.com/training-center/forum).
 
 ## Nenhuma dúvida é ruim
 
