@@ -18,7 +18,7 @@ theme_settings:
      <p>Ruby on Rails<br><small>e muito mais em pt-br.</small></p>
   header_text_feature_image: assets/img/ruby-on-rails.png
   footer_text: >
-    "O futuro do Ruby é brilhante, mas depende de nós." <a href="https://twitter.com/rafaelfranca">Rafael Fraça</a>
+    "O futuro do Ruby é brilhante, mas depende de nós." <a href="https://twitter.com/rafaelfranca">Rafael França</a>
 
   # Icons
   rss: true

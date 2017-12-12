@@ -7,9 +7,9 @@ thumbnail: "assets/img/posts/rails5.jpg"
 
 ![Welcome to Rails](/assets/img/posts/rails5.jpg)
 
-> O futuro do Ruby é brilhante, depende de nós. – [Rafael Fraça](https://twitter.com/rafaelfranca) na [#RubyConfBr](https://twitter.com/search?q=%23RubyConfBR&src=typd)
+> O futuro do Ruby é brilhante, depende de nós. – [Rafael França](https://twitter.com/rafaelfranca) na [#RubyConfBr](https://twitter.com/search?q=%23RubyConfBR&src=typd)
 
-Esse blog foi inspirado pela [palestra](https://speakerdeck.com/rafaelfranca/o-futuro-da-comunidade-ruby) do Rafael Fraça na Ruby Conf de 2017 em São Paulo, e tem o objetivo de incentivar novas pessoas a aprender sobre Ruby e Rails.
+Esse blog foi inspirado pela [palestra](https://speakerdeck.com/rafaelfranca/o-futuro-da-comunidade-ruby) do Rafael França na Ruby Conf de 2017 em São Paulo, e tem o objetivo de incentivar novas pessoas a aprender sobre Ruby e Rails.
 
 Eu amo trabalhar com Ruby, acho essa linguagem de programação fantástica e gostaria de compartilhar o que aprendi com outras pessoas assim como eu aprendi um tempo atrás com outros blogs.
 
