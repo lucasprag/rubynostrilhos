@@ -140,4 +140,4 @@ Existe muito mais conteúdo sobre rotas como `scopes` e `namespaces` para quando
 
 Você pode se aprofundar mais sobre rotas [aqui](http://guides.rubyonrails.org/routing.html).
 
-Se você tiver qualquer dúvida sobre rotas você pode criar uma issue [aqui](https://github.com/rubynostrilhos/forum) que eu vou te ajudar assim que possĩvel.
+Se você tiver qualquer dúvida sobre rotas você pode criar uma issue [aqui](https://github.com/rubynostrilhos/forum) que eu vou te ajudar assim que possível.

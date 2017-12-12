@@ -76,4 +76,4 @@ puts invalid_customers
 
 ```
 
-Se você tiver qualquer dúvida sobre como importar dados de planilhas você pode criar uma issue [aqui](https://github.com/rubynostrilhos/forum) que eu vou te ajudar assim que possĩvel.
+Se você tiver qualquer dúvida sobre como importar dados de planilhas você pode criar uma issue [aqui](https://github.com/rubynostrilhos/forum) que eu vou te ajudar assim que possível.
