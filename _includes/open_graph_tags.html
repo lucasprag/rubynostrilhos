@@ -1,0 +1,13 @@
+{% if page.path contains '_posts' %}
+  <meta property="og:url"                content="{{ site.url }}" />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="{{ page.title }}" />
+  <meta property="og:description"        content="{{ page.content | strip_html | truncate: "350" }}" />
+  <meta property="og:image"              content="{{ site.url }}/{{ page.feature-img }}" />
+{% else %}
+  <meta property="og:url"                content="{{ site.url }}" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="{{ site.theme_settings.title }}" />
+  <meta property="og:description"        content="{{ site.theme_settings.description }}" />
+  <meta property="og:image"              content="{{ site.url }}/assets/img/ruby-on-rails-logo.jpg" />
+{% endif %}
