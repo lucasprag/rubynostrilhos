@@ -10,6 +10,7 @@ comments: true
       {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
+
   <section class="post-content">{{ content }}</section>
 
   <!-- Tag list -->
@@ -20,6 +21,8 @@ comments: true
 <div class="clear"></div>
 
 {% include newsletter.html %}
+
+{% include twitter.html %}
 
 <!-- Disqus -->
 {% if site.theme_settings.disqus_shortname %}
