@@ -39,7 +39,9 @@ Veja mais no [site](https://www.ruby-lang.org) de linguagem.
 
 É um framework que já tem tudo o que você precisa para criar fantásticas aplicações web.
 
-Você provavelmente já usou várias apps que foram feitas com Ruby on Rails como por exemplo: GitHub, Gitlab, Shopify, Airbnb, Twitch, SoundCloud, Zendesk, Iugu e Magnetis.
+O Rails otimiza a felicidade do programador com a <strong>Convenção sobre Configuração</strong> que é um dos motivos que faz Rails ser tão aceito, onde você não precisa fazer diversas configurações para ter sua app pronta para você trabalhar no que realmente importa.
+
+Você provavelmente já usou várias aplicações que foram feitas com Ruby on Rails como por exemplo: [GitHub](github.com), [Shopify](https://pt.shopify.com/), [Airbnb](https://www.airbnb.com.br/), [Twitch](https://www.twitch.tv/), [SoundCloud](https://soundcloud.com/), [Zendesk](https://www.zendesk.com.br/), [Iugu](http://iugu.com/) e [Magnetis](https://magnetis.com.br/).
 
 [David Heinemeier Hansson](https://twitter.com/dhh) criou o Rails em 2003 ao extrair parte do código do [Basecamp](https://basecamp.com/) e hoje ele continua liderando o desenvolvimento do framework que é open source.
 
@@ -72,8 +74,6 @@ E agora a view apenas lista os nossos posts:
 ```
 
 Não espero que você entenda completamente como criar páginas usando Rails, esses trechos de código servem a apenas para você ter uma noção de como fazer uma página que lista informações vindas do banco de dados.
-
-O Rails otimiza a felicidade do programador com a Convenção sobre Configuração que é um dos motivos que faz Rails ser tão aceito, onde você não precisa fazer diversas configurações para ter sua app pronta para você trabalhar no que realmente importa.
 
 Ruby on Rails tem popularizado uma variedade de pontos controversos desde o início. Para saber mais sobre por que o Rails é tão diferente de muitos outros frameworks e paradigmas de aplicação web, veja [The Rails Doctrine](http://rubyonrails.org/doctrine/).
 
