@@ -20,18 +20,18 @@ Um bom exemplo disso são os cursos do Udemy, por causa do ranking do site os pr
 
 ## Dia-a-dia
 
-Mais do que conteũdos para aprender a programar ou debuggar o seu código, uma pessoa desenvolvedora precisa ler e escrever em Inglês no dia-a-dia.
+Mais do que conteúdos para aprender a programar ou debuggar o seu código, uma pessoa desenvolvedora precisa ler e escrever em Inglês no dia-a-dia.
 
-Geralmente, todo o código da sua empresa será escrito em Inglês, se você usar um framework ele virá escrito em Inglês, assim como a documentação dele poderá não ter uma versão em Português, suas mensagens de commits (quando você registra algum código para ser versionado) vão ser em Inglês e vários outros exemplos como esse.
+Geralmente, todo o código da sua empresa será escrito em Inglês, se você usar um framework ele virá escrito em Inglês, assim como a documentação dele poderá não ter uma versão em Português, suas mensagens de commits (quando você registra algum código para ser versionado) vão ser em Inglês e vários outros exemplos como esses.
 
 ## Qual o nível de Inglês que você precisa?
 
-Você não precisa ser fluente para conseguir programar ou aprender a programar, o que você precisa ter essencialmente é apenas entender Inglês, seja escrito ou falado.
+Você não precisa ser fluente para conseguir programar ou aprender a programar, o que você precisa saber, essencialmente, é apenas <strong>entender Inglês</strong>, seja escrito ou falado.
 
 
 ## Como aprender Inglês?
 
-Eu recomendo começar devorando a trilha de Inglês do aplicativo DuoLingo. Depois ou durante isso tente devorar conteúdos em Inglês, eu comecei lendo os livros do Harry Potter, eu já tinha lido eles em Português então muito do universo do livro eu já conhecia e isso facilita pois você não precisa aprender sobre esse universo e pode focar em aprender Inglês.
+Eu recomendo começar devorando a trilha de Inglês do aplicativo DuoLingo. Depois, ou durante isso, tente devorar conteúdos em Inglês, eu comecei lendo os livros do Harry Potter, eu já tinha lido eles em Português então muito do universo do livro eu já conhecia e isso facilita pois você não precisa aprender sobre esse universo e pode focar em aprender o Inglês do livro em questão.
 
 Eu acredito que aprender fazendo isso, devorando conteúdo em Inglês e se dedicando, você já vai aprender o suficiente para tirar muito proveito do que a internet tem de melhor em Inglês.
 
