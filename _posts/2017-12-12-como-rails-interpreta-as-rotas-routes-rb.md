@@ -4,6 +4,7 @@ title: Como Rails interpreta as rotas? routes.rb
 tags: [routes]
 thumbnail: "assets/img/posts/routes.png"
 feature-img: "assets/img/posts/routes.png"
+author: lucasprag
 ---
 
 A gente viu no post sobre [rails on rake](http://rubynostrilhos.com.br/2017/12/07/como-rails-interpreta-as-rotas-rack.html) que uma requisição passa pelos middlewares do rack antes de chegar nas regras definidas no arquivo `config/routes.rb` da nossa aplicação rails. Agora vamos falar mais sobre essas regras e como defini-las.

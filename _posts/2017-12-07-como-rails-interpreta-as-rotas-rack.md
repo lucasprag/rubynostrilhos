@@ -4,6 +4,7 @@ title: Como Rails interpreta as rotas? Rack
 tags: [rack, intermediario]
 thumbnail: "assets/img/posts/rack.jpg"
 feature-img: "assets/img/posts/rack.jpg"
+author: lucasprag
 ---
 
 Se você já criou alguma coisa com Rails sabe que você pode definir rotas no arquivo `routes.rb`, mas o que será que acontece antes?

@@ -3,6 +3,7 @@ layout: post
 title: Inspiração
 tags: [comunidade]
 thumbnail: "assets/img/posts/rails5.jpg"
+author: lucasprag
 ---
 
 ![Welcome to Rails](/assets/img/posts/rails5.jpg)

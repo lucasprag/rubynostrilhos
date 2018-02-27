@@ -1,0 +1,7 @@
+{% assign author = site.authors[page.author] %}
+
+{% if author %}
+<section class="author">
+Escrito por <a href="{{ author.website }}" target="_blank">{{ author.name }}</a>
+</section>
+{% endif %}

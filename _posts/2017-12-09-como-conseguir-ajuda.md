@@ -4,6 +4,7 @@ title: Como conseguir ajuda sobre Rails?
 tags: [ajuda]
 thumbnail: "assets/img/posts/ajuda.jpg"
 feature-img: "assets/img/posts/ajuda.jpg"
+author: lucasprag
 ---
 
 Eu venho acompanhando algumas dúvidas no grupo do facebook da comunidade Ruby aqui do Brasil e percebi que tem muita gente com dúvidas das mais diversas sobre Rails.

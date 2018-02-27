@@ -4,6 +4,7 @@ title: Como importar dados de uma planilha com Ruby
 tags: [csv]
 thumbnail: "assets/img/posts/planilha.png"
 feature-img: "assets/img/posts/planilha.png"
+author: lucasprag
 ---
 
 Vamos dizer que você tem um modelo chamado `Customer` e você precisa ler uma planilha `CSV` e salvar esses clientes no seu banco de dados. O Ruby tem uma [classe](http://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html) que nos ajuda nesse trabalho e torna ele muito simples, veja só esse exemplo:

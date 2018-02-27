@@ -7,7 +7,6 @@ comments: true
     <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
-      {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
 
@@ -16,7 +15,10 @@ comments: true
   <!-- Tag list -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
   {% include tags_list.html tags=tag_list %}
+
+  {% include author.html %}
 </article>
+
 
 <div class="clear"></div>
 

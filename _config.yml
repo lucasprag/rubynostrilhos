@@ -1,9 +1,16 @@
-# SITE CONFIGURATION
 baseurl: ""
 url: "http://rubynostrilhos.com.br"
 title: "Ruby nos trilhos"
 author: "Lucas Oliveira"
 description: "Ruby on Rails e muito mais em pt-br."
+
+authors:
+  lucasprag:
+    name: Lucas Oliveira
+    email: hi@lucasprag.com
+    twitter: lucasprag
+    github: lucasprag
+    website: http://lucasprag.com
 
 theme_settings:
   # Meta

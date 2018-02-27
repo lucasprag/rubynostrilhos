@@ -4,6 +4,7 @@ title: Aprenda a diferença entre proc, lambda e block
 tags: [basico]
 thumbnail: "assets/img/posts/blocks-procs-lambdas.png"
 feature-img: "assets/img/posts/blocks-procs-lambdas.png"
+author: lucasprag
 ---
 
 Nesse post você vai aprender tudo o que você precisa saber sobre blocks, procs e lambdas.

@@ -2,6 +2,7 @@
 layout: post
 title: Web Server vs Application Server - Você sabe a diferença?
 tags: [web server, application server, Nginx, puma]
+author: lucasprag
 ---
 
 Qual o caminho que uma requisição faz para acessar a sua applicação Rails?

@@ -4,6 +4,7 @@ title: A primeira linguagem que toda pessoa desenvolvedora precisa aprender
 tags: [basico]
 thumbnail: "assets/img/posts/caso-de-uso-portugues.png"
 feature-img: "assets/img/posts/caso-de-uso-portugues.png"
+author: lucasprag
 ---
 
 ## Inglês.
