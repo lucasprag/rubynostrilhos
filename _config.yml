@@ -5,6 +5,9 @@ title: "Ruby nos trilhos"
 author: "Lucas Oliveira"
 description: "Ruby on Rails e muito mais em pt-br."
 
+toggles:
+  thumbnails: false
+
 theme_settings:
   # Meta
   title: "Ruby nos trilhos"
@@ -69,7 +72,7 @@ theme_settings:
   post_navigation: false
 
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
