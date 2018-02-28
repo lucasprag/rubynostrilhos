@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A primeira linguagem que toda pessoa desenvolvedora precisa aprender
-tags: [basico]
+tags: [iniciante, carreira]
 thumbnail: "assets/img/posts/caso-de-uso-portugues.png"
 feature-img: "assets/img/posts/caso-de-uso-portugues.png"
 ---

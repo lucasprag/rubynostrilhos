@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como Rails interpreta as rotas? Rack
-tags: [rack, intermediario]
+tags: [iniciante]
 thumbnail: "assets/img/posts/rack.jpg"
 feature-img: "assets/img/posts/rack.jpg"
 ---

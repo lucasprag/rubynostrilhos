@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curiosidade: Você sabe o motivo dos nomes action e active no rails?"
-tags: [curiosidade]
+tags: [iniciante, rails]
 thumbnail: "assets/img/posts/action-active-rails.png"
 feature-img: "assets/img/posts/action-active-rails.png"
 ---

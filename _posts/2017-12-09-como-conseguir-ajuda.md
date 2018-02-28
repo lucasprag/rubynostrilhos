@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como conseguir ajuda sobre Rails?
-tags: [ajuda]
+tags: [iniciante]
 thumbnail: "assets/img/posts/ajuda.jpg"
 feature-img: "assets/img/posts/ajuda.jpg"
 ---

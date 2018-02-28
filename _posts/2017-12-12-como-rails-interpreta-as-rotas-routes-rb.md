@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como Rails interpreta as rotas? routes.rb
-tags: [routes]
+tags: [iniciante, rails]
 thumbnail: "assets/img/posts/routes.png"
 feature-img: "assets/img/posts/routes.png"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aprenda a diferença entre proc, lambda e block 
-tags: [basico]
+tags: [iniciante, ruby]
 thumbnail: "assets/img/posts/blocks-procs-lambdas.png"
 feature-img: "assets/img/posts/blocks-procs-lambdas.png"
 ---

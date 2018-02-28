@@ -9,14 +9,12 @@ toggles:
   thumbnails: false
 
 theme_settings:
-  # Meta
   title: "Ruby nos trilhos"
   avatar: "assets/img/ruby-nos-trilhos-logo.jpg"
   favicon: "assets/favicon.ico"
   gravatar: # Email MD5 hash
   description: "Ruby on Rails e muito mais em pt-br."
 
-  # Header and footer text
   header_text: >
      <p>Ruby on Rails<br><small>e muito mais em pt-br.</small></p>
   header_text_feature_image: assets/img/ruby-on-rails.png
@@ -51,18 +49,18 @@ theme_settings:
   disqus_shortname: ruby-nos-trilhos
   katex: true # Enable if using math markup
   search: true
-  tags: false
+  tags: true
 
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_next_post: "Próximo"
+  str_previous_post: "Anterior"
+  str_next_page: "Próximo"
+  str_previous_page: "Anterior"
+  str_continue_reading: "continue lendo"
+  str_javascript_required_disqus: "Por favor habilite o JavaScript para ver os comentários."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como importar dados de uma planilha com Ruby
-tags: [csv]
+tags: [iniciante, ruby]
 thumbnail: "assets/img/posts/planilha.png"
 feature-img: "assets/img/posts/planilha.png"
 ---
