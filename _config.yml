@@ -10,7 +10,7 @@ toggles:
 
 theme_settings:
   title: "Ruby nos trilhos"
-  avatar: "assets/img/ruby-nos-trilhos-logo.jpg"
+  avatar: "assets/img/rubynostrilhos.jpg"
   favicon: "assets/favicon.ico"
   gravatar: # Email MD5 hash
   description: "Ruby on Rails e muito mais em pt-br."
