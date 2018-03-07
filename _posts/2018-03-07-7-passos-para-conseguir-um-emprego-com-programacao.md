@@ -39,7 +39,7 @@ E tem muitos outros cursos e blogs (como o ruby nos trilhos) para ler e aprender
 
 Agora que você está no linux e já está aprendendo programação é hora de começar um blog. 
 
-Um blog é útil para mostrar que você está estudando constantemente, você acaba aprendendo mais profundamente quando você escreve, você ajuda outras pessoas a aprender o que você também está estudando e você também dá indícios para uma empresa saber que você realmente sabe daquelo que você está falando. Todo mundo ganha, você, a comunidade e uma empresa interessada em te contratar.
+Um blog é útil para mostrar que você está estudando constantemente, você acaba aprendendo mais profundamente quando você escreve para ensinar outras pessoas, você ajuda outras pessoas a aprender o que você também está estudando e você também dá indícios para uma empresa que você realmente sabe daquelo que você está falando. Todo mundo ganha, você, a comunidade e uma empresa interessada em te contratar.
 
 Eu sugiro criar o seu blog usando [jekyll](https://jekyllrb.com/), salvar ele usando git no [github](https://github.com) e hospedar ele no [github pages](https://pages.github.com/).
 
