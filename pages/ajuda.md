@@ -2,7 +2,6 @@
 layout: page
 title: Ajuda
 permalink: /ajuda/
-feature-img: "assets/img/posts/ajuda.jpg"
 ---
 
 Existe um [forum](https://github.com/rubynostrilhos/forum/issues) para ajudar e receber ajuda sobre Ruby, Rails e relacionados.

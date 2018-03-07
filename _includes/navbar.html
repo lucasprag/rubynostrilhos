@@ -11,6 +11,7 @@
     </a>
 
     <ul>
+
       {% for page in site.pages %}
         {% if page.title and page.hide != true %}
           <li>
@@ -20,21 +21,24 @@
           </li>
         {% endif %}
       {% endfor %}
-      {% if site.theme_settings.search %}
+
+      {% if site.theme_settings.tags %}
         <li>
+          <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
+            Tags
+            <i class="fa fa-tags" aria-hidden="true"></i>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if site.theme_settings.search %}
+      <li>
           <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
             <i class="fa fa-search" aria-hidden="true"></i>
           </a>
         </li>
       {% endif %}
-      {% if site.theme_settings.tags %}
-        <li>
-          <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
-            <i class="fa fa-tags" aria-hidden="true"></i>
-          </a>
-        </li>
-      {% endif %}
-    </ul>
 
+    </ul>
   </nav>
 </header>

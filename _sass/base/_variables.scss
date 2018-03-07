@@ -7,6 +7,7 @@ $font-size: 1.25em;
 $padding-large: 20%;
 $padding-small: 5%;
 $padding-x-small: 3%;
+$padding-smallest: 0.7%;
 
 // Brand colours
 $brand-color: #fff;
@@ -28,6 +29,7 @@ $text-shadow: #3f3f3f;
 $search-color: #999;
 
 // Header colours
+$header-title-color: #b30000;
 $header-link-color: #383838;
 
 // Feature image for articles
@@ -35,8 +37,8 @@ $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: #507492;
-$header-desc-text-color: #FFF;
+$header-desc-background-color: #ffffff;
+$header-desc-text-color: #000000;
 
 // Mobile display
 $break: 768px;

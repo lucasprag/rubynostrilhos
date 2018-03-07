@@ -1,10 +1,8 @@
 .tag-list {
+  @extend %padding-smallest;
+
   width: 100%;
   font-size: 0.9em;
-
-  div.meta {
-    margin-right: 0.5em;
-  }
 
   a.button {
     margin: 0.1em;

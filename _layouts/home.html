@@ -7,8 +7,11 @@ layout: default
   <div id="main" class="call-out"
     style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
     {{ site.theme_settings.header_text }}
+
   </div>
   {% endif %}
+
+  {% include newsletter.html %}
 
   <div class="posts">
     {% for post in paginator.posts %}

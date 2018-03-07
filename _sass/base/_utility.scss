@@ -1,4 +1,8 @@
 // Mix-ins
+%padding-smallest {
+  padding: $padding-smallest
+}
+
 %padding-small {
   padding: $padding-x-small $padding-x-small * 2;
   @media (max-width: 1000px) {
@@ -14,6 +18,11 @@
   @media (max-width: 576px) {
     padding: $padding-small;
   }
+}
+
+%borders {
+  border-top: 1px solid rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
 .header-txt-shadow {
