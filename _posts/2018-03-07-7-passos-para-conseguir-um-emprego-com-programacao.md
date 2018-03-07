@@ -39,7 +39,7 @@ E tem muitos outros cursos e blogs (como o ruby nos trilhos) para ler e aprender
 
 Agora que você está no linux e já está aprendendo programação é hora de começar um blog. 
 
-Um blog é útil para mostrar que você está estudando constantemente, você acaba aprendendo mais profundamente quando você escreve para ensinar outras pessoas, você ajuda outras pessoas a aprender o que você também está estudando e você também dá indícios para uma empresa que você realmente sabe daquelo que você está falando. Todo mundo ganha, você, a comunidade e uma empresa interessada em te contratar.
+Um blog é útil para mostrar que você está estudando constantemente, você acaba aprendendo mais profundamente quando você escreve para ensinar outras pessoas, você ajuda outras pessoas a aprender o que você também está estudando e você também dá indícios para uma empresa que você realmente sabe daquilo que você está falando. Todo mundo ganha, você, a comunidade e uma empresa interessada em te contratar.
 
 Eu sugiro criar o seu blog usando [jekyll](https://jekyllrb.com/), salvar ele usando git no [github](https://github.com) e hospedar ele no [github pages](https://pages.github.com/).
 
@@ -54,7 +54,7 @@ Agora veja a documentação do jekyll e trabalhe no seu blog para se preparar pa
 <b>Bonus!</b> Sugestões de posts:
 - Comandos básicos do linux
 - O que são e para o que servem uma classe, um objeto e uma instância
-- Como instalar o ruby no ubuntu usango rbenv
+- Como instalar o ruby no ubuntu usando rbenv
 - Comandos mais usados do git
 - Como criar um site com jekyll
 
@@ -69,7 +69,7 @@ Agora veja a documentação do jekyll e trabalhe no seu blog para se preparar pa
 
 ## Passo 5: Torne-se empregável 
 
-Eu preciso que você pense agora como um CTO, gerente ou líder que vai te entrevistar. Essa pessoa está precisando de alguém para trabalhar com ela para resolver problemas dentro da empresa. É difícil saber se um profissional vai dar dentro dentro da empresa, então sua missão agora é criar indícios de que <b>você vai dar certo</b>. 
+Eu preciso que você pense agora como um CTO, gerente ou líder que vai te entrevistar. Essa pessoa está precisando de alguém para trabalhar com ela para resolver problemas dentro da empresa. É difícil saber se um profissional vai dar certo dentro da empresa, então sua missão agora é criar indícios de que <b>você vai dar certo</b>. 
 
 Você já começou esse passo na frente porque você já tem um blog que é um ótimo indício de que você estuda constantemente, mas para conseguir um emprego você vai precisar um pouco mais que isso.
 
