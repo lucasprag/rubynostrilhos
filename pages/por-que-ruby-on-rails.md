@@ -2,6 +2,7 @@
 layout: page
 title: Por que Ruby on Rails?
 permalink: /por-que-ruby-on-rails/
+order: 1
 ---
 
 [Ruby](https://www.ruby-lang.org/) on [Rails](http://rubyonrails.org/) é uma ótima escolha com tudo o que você precisa para criar aplicações web rapidamente.

@@ -2,6 +2,7 @@
 layout: page
 title: Ajuda
 permalink: /ajuda/
+order: 2
 ---
 
 Existe um [forum](https://github.com/rubynostrilhos/forum/issues) para ajudar e receber ajuda sobre Ruby, Rails e relacionados.

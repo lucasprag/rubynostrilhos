@@ -11,8 +11,14 @@
     </a>
 
     <ul>
+      <li>
+        <a class="clear" href="https://rubynostrilhos.typeform.com/to/CWctxy" target="_blank">
+          Sugira um post!
+        </a>
+      </li>
 
-      {% for page in site.pages %}
+      {% assign pages = site.pages | sort: 'order' %}
+      {% for page in pages %}
         {% if page.title and page.hide != true %}
           <li>
             <a class="clear" href="{{ page.url | relative_url }}">
@@ -25,7 +31,6 @@
       {% if site.theme_settings.tags %}
         <li>
           <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
-            Tags
             <i class="fa fa-tags" aria-hidden="true"></i>
           </a>
         </li>
@@ -38,7 +43,6 @@
           </a>
         </li>
       {% endif %}
-
     </ul>
   </nav>
 </header>
