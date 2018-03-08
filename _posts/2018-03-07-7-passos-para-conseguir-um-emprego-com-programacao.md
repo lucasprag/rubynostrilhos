@@ -99,7 +99,7 @@ Alguns pontos que fazem um bom currículo:
 - estar bem organizado e consistente
 - falar o que você fez em cada emprego/estágio anterior (se houver)
 - explicar rapidamente qual o negócio das empresas que você trabalhou, por exemplo: plataforma de pagamentos online ou produção de turbos para caminhões
-- falar sobre o seu TCC (se houser)
+- falar sobre o seu TCC (se houver)
 - listar projetos pessoais (você pode fazer do seu blog um projeto pessoal)
 - ter informações relevantes para a empresa (ninguém quer saber o seu endereço completo ou seu estado civil)
 - ter um link para saber mais sobre você (lembra do site pessoal? use ele aqui)
@@ -129,7 +129,7 @@ Como o nosso mercado está bem aquecido, talvez nem tanto para pessoas com pouca
 
 Aqui vão algumas dicas para conquistar a atenção de empresas que eu aprendi com a minha experiência:
 
-- estude a entresa, aprenda qual o seu negócio e tenha real interesse por ela
+- estude a empresa, aprenda qual o seu negócio e tenha real interesse por ela
 - estude quem vai te entrevistar, é uma pessoa técnica? é de recrutamento? é de negócios? adeque sua conversa aos termos que ela vai entender 
 - você sempre vai ter um campo para escrever alguma coisa livremente, mesmo que seja o corpo de um email, então use bem isso falando o porquê de você querer entrar para a empresa 
 - treine o discurso do elevador (pesquise por the elevator speech), ou seja, aprenda a responder a pergunta "Me fale sobre você" da melhor maneira possível a fim de elevar o nível da conversa, não vale usar respostas curtas com duas palavras
