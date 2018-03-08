@@ -15,15 +15,15 @@ Você não precisa ser fluente, saber ler e escrever minimamente é o suficiente
 
 Em uma entrevista de emprego, se você disser que usa linux, no mínimo isso quer dizer que você sabe correr atrás de resolver problemas e de aprender coisas novas. Ruby roda mal no windows, a linha de comando no windows também funciona muito mal em comparação com o bash no linux, então, por esses e outros motivos, as pessoas desenvolvedoras ruby usam linux ou mac tanto para desenvolver no seu notebook quanto no servidor para hospedar sua aplicação na internet.
 
-Linux não é um bicho de sete cabeças, existe uma destribuição do linux que é super amigável com novos usuários. Essa distribuição é o [Ubuntu](https://www.ubuntu.com/).
+Linux não é um bicho de sete cabeças, existe uma distribuição do linux que é super amigável com novos usuários. Essa distribuição é o [Ubuntu](https://www.ubuntu.com/).
 
-Para instalar o Ubuntu você deve ir no seu windows, abrir o gerenciador de disco, reduzir a partição do seu HD e bootar o seu computador com uma imagem do Ubuntu num pen drive e seguir o passo-a-passo da instalaçao. (Se você quiser um passo-a-passo mais detalhado ou precisar de ajuda, post [aqui](https://github.com/rubynostrilhos/forum)).
+Para instalar o Ubuntu você deve ir no seu windows, abrir o gerenciador de disco, reduzir a partição do seu HD e bootar o seu computador com uma imagem do Ubuntu num pen drive e seguir o passo-a-passo da instalação. (Se você quiser um passo-a-passo mais detalhado ou precisar de ajuda, post [aqui](https://github.com/rubynostrilhos/forum)).
 
 Com o Ubuntu instalado sua segunda missão é se acostumar a ele. Usar o computador normalmente, procurar instalar programas e talvez aprender comandos básicos do linux que podem ser executados no terminal (também conhecido como linha de comando) como por exemplo `cd`, `ls`, `pwd`, `mkdir`, `sudo`, `apt-get`, `top`, `|` (pipe), `grep`, etc.
 
-## Passo 3: Faça um curso de progração online 
+## Passo 3: Faça um curso de programação online 
 
-Agora que você está usando linux e consegue navegar na internet e rodar alguns comandos no terminal sua próxima missáo é estudar programação.
+Agora que você está usando linux e consegue navegar na internet e rodar alguns comandos no terminal sua próxima missão é estudar programação.
 
 Vou listar aqui alguns sites que você consegue estudar de graça ou pagando alguma mensalidade (mais que justa):
 - [Try ruby](http://tryruby.org/levels/1/challenges/0)
@@ -51,14 +51,14 @@ Esses são os motivos dessa stack de jekyll, github e github pages:
 
 Agora veja a documentação do jekyll e trabalhe no seu blog para se preparar para o próximo passo. Se precisar de ajuda poste [aqui](https://github.com/rubynostrilhos/forum) a sua dúvida que eu vou te ajudar.
 
-<b>Bonus!</b> Sugestões de posts:
+<b>Bônus!</b> Sugestões de posts:
 - Comandos básicos do linux
 - O que são e para o que servem uma classe, um objeto e uma instância
 - Como instalar o ruby no ubuntu usando rbenv
 - Comandos mais usados do git
 - Como criar um site com jekyll
 
-<b>Bonus! [2]</b> Exemplo de blogs de outras pessoas desenvolvedoras e pessoas de outras áreas:
+<b>Bônus! [2]</b> Exemplo de blogs de outras pessoas desenvolvedoras e pessoas de outras áreas:
 - [Nando Vieira](https://nandovieira.com.br)
 - [Patrick Negri](http://patricknegri.co/)
 - [Akita on Rails](http://www.akitaonrails.com/)
@@ -73,15 +73,15 @@ Eu preciso que você pense agora como um CTO, gerente ou líder que vai te entre
 
 Você já começou esse passo na frente porque você já tem um blog que é um ótimo indício de que você estuda constantemente, mas para conseguir um emprego você vai precisar um pouco mais que isso.
 
-Aqui vão algumas dicas para você ser todar mais "empregável" 
+Aqui vão algumas dicas para você se tornar mais "empregável" 
 
 ### Tenha projetos pessoais
 
-Trabalhar efetivalmente em projetos pessoais pode te trazer vários indícios e dentre eles, o mais importate na minha opinião é que você tem o que mostrar mesmo se você não tiver trabalhado na área ainda. Isso vale para mostrar código e também mostrar que você pode ter outras habilidades no desenvolvimento de um projeto como gerenciar tarefas, desenvolver um produto, lidar com a experiência que um usuário vai ter ao acessar o seu projeto, etc. 
+Trabalhar efetivamente em projetos pessoais pode te trazer vários indícios e dentre eles, o mais importante na minha opinião é que você tem o que mostrar mesmo se você não tiver trabalhado na área ainda. Isso vale para mostrar código e também mostrar que você pode ter outras habilidades no desenvolvimento de um projeto como gerenciar tarefas, desenvolver um produto, lidar com a experiência que um usuário vai ter ao acessar o seu projeto, etc. 
 
 Esse projeto não precisa ser puramente técnico, ele pode ser um portal de bairro, um aplicativo que mostra a previsão do tempo, um website para encurtar URLs, um website de algum amigo seu, etc.
 
-Uma dica é você fazer do seu blog um projeto pessoal, ou seja, faça ele bem feito e aprenda sobre como conseguir mais leitores e como melhorar o seu conteúdo. Aprenda como colocar um formulário para o seus leitores assinarem a sua newsletter e também a como fazer o seu blog ser compartilável nas redes sociais, o que significa que quando alguém copia e cola a URL do seu blog no facebook, por exemplo, vai aparecer a imagem do seu post, o título e descrição como aparece em qualquer blog/site mais profissional. Também vale fazer um canal no youtube se essa é a sua praia.
+Uma dica é você fazer do seu blog um projeto pessoal, ou seja, faça ele bem feito e aprenda sobre como conseguir mais leitores e como melhorar o seu conteúdo. Aprenda como colocar um formulário para o seus leitores assinarem a sua newsletter e também a como fazer o seu blog ser compartilhável nas redes sociais, o que significa que quando alguém copia e cola a URL do seu blog no facebook, por exemplo, vai aparecer a imagem do seu post, o título e descrição como aparece em qualquer blog/site mais profissional. Também vale fazer um canal no youtube se essa é a sua praia.
 
 ### Tenha um site pessoal com os seus links
 
@@ -130,7 +130,7 @@ Como o nosso mercado está bem aquecido, talvez nem tanto para pessoas com pouca
 Aqui vão algumas dicas para conquistar a atenção de empresas que eu aprendi com a minha experiência:
 
 - estude a empresa, aprenda qual o seu negócio e tenha real interesse por ela
-- estude quem vai te entrevistar, é uma pessoa técnica? é de recrutamento? é de negócios? adeque sua conversa aos termos que ela vai entender 
+- estude quem vai te entrevistar, é uma pessoa técnica? é de recrutamento? é de negócios? adéque sua conversa aos termos que ela vai entender 
 - você sempre vai ter um campo para escrever alguma coisa livremente, mesmo que seja o corpo de um email, então use bem isso falando o porquê de você querer entrar para a empresa 
 - treine o discurso do elevador (pesquise por the elevator speech), ou seja, aprenda a responder a pergunta "Me fale sobre você" da melhor maneira possível a fim de elevar o nível da conversa, não vale usar respostas curtas com duas palavras
 - seja gentil sempre
