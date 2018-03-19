@@ -4,7 +4,7 @@ title: 7 passos para conseguir o primeiro emprego com programação
 tags: [carreira]
 ---
 
-Programar, assim como muita atividade técnica por ai, <b>não é fácil</b>, mas é possível aprender com esforço suficiente. Neste post eu quero te sugerir um caminho para conseguir o primeiro emprego com programação com ruby.
+Programar, assim como muita atividade técnica por ai, <b>não é fácil</b>, mas é possível aprender com esforço suficiente. Neste post eu quero te sugerir um caminho para conseguir o primeiro emprego em programação com ruby.
 
 ## Passo 1: Estude Inglês
 Inglês é a [primeira linguagem](/2018/01/29/a-primeira-linguagem-que-toda-pessoa-desenvolvedora-precisa-aprender.html) que todas as pessoas desenvolvedoras devem aprender porque todas as linguagens de programação que você for usar estarão escritas em Inglês, sua documentação pode não ter uma versão em Português e será mais fácil pesquisar e resolver problemas sabendo pesquisar e ler em Inglês.
