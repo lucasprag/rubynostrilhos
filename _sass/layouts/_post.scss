@@ -51,12 +51,7 @@
   .feature-image {
     height: 300px;
     width: 100%;
-  }
-
-  .feature-image {
-    @media screen and (max-width: $break) {
-      padding: $padding-small $padding-small;
-    }
+    background-size: cover;
   }
 
   #post-nav {

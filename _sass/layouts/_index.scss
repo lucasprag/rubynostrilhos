@@ -28,12 +28,10 @@
 
 // Post listing
 .posts {
-  .post-teaser:first-of-type {
-    padding-top: $padding-smallest;
-  }
-
   .post-teaser {
     @extend %padding-regular;
+    padding-top: $padding-smallest;
+
     width: 100%;
     margin-bottom: 0;
     display: inline-block;
