@@ -1,0 +1,5 @@
+.comments {
+  @extend %padding-regular;
+  border-bottom: 1px solid $border-color;
+  width: 100%;
+}

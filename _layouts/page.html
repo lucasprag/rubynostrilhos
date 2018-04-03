@@ -14,7 +14,7 @@ layout: default
   </header>
 
   <article {% if page.feature-img %}class="feature-image"{% endif %}>
-    <section class="post-content">{{ content }}</section>
+    <section class="content">{{ content }}</section>
 
     {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
     {% include tags_list.html tags=tag_list %}

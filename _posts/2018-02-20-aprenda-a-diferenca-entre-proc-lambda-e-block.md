@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aprenda a diferença entre proc, lambda e block 
+title: Aprenda a diferença entre proc, lambda e block
 tags: [iniciante, ruby]
 thumbnail: "assets/img/posts/blocks-procs-lambdas.png"
 feature-img: "assets/img/posts/blocks-procs-lambdas.png"
@@ -19,7 +19,7 @@ Pense em block (ou bloco) como uma função anônima que você define e executa 
   puts number
 end
 
-# também podemos definir blocks usando {} 
+# também podemos definir blocks usando {}
 
 [1, 2, 3].each { |number|
   puts number
@@ -91,7 +91,7 @@ Agora, por curiosidade, vamos implementar um método como o `Array#each`:
 ```ruby
 def my_each(list)
   i = 0
-  
+
   while i < list.size do
     yield list[i]
 
@@ -107,7 +107,7 @@ end
 # 3
 ```
 
-# Lambdas x Procs 
+# Lambdas x Procs
 
 Lambdas e procs são bem similares, na verdade não existe uma classe dedicada para `Lambda`, ou seja, uma lambda é apenas um objeto `Proc` especial.
 
@@ -116,7 +116,7 @@ Lambdas e procs são bem similares, na verdade não existe uma classe dedicada p
 # objeto Proc você encontrará um método `lambda?`
 
 p = Proc.new {}
-p.methods 
+p.methods
 p.lambda?
 # => false
 ```
@@ -161,7 +161,7 @@ def call_proc
   my_proc.call
   puts "Depois da proc"
 end
- 
+
 call_proc
 # "Antes da proc"
 
@@ -172,7 +172,7 @@ def call_lambda
   my_lambda.call
   puts "Depois da lambda"
 end
- 
+
 call_lambda
 # "Antes da lambda"
 # "Depois da lambda"

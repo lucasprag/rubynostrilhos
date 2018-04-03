@@ -1,4 +1,8 @@
 .page {
+  .content {
+    @extend %padding-regular;
+  }
+
   .header {
     @extend .call-out;
 

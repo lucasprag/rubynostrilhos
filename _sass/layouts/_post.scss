@@ -1,0 +1,89 @@
+.post {
+  .content {
+    @extend %padding-regular;
+  }
+
+  .header {
+    @extend %padding-regular;
+    text-align: center;
+
+    .title {
+      margin: 0;
+    }
+  }
+
+  a:hover {
+    @extend .body-link;
+  }
+
+  .footnotes {
+    font-size: 0.9em;
+  }
+
+  footer {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.9em;
+    display: inline-block;
+    text-align: center;
+
+    .meta {
+      color: rgba($text-color, .5);
+      letter-spacing: 0.1em;
+      display: inline;
+      text-transform: uppercase;
+    }
+
+    a.button {
+      margin-left: 1em;
+    }
+  }
+
+  .meta {
+    color: rgba($text-color, .5);
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  .feature-image {
+    height: 300px;
+    width: 100%;
+  }
+
+  .feature-image {
+    @media screen and (max-width: $break) {
+      padding: $padding-small $padding-small;
+    }
+  }
+
+  #post-nav {
+    width: 100%;
+    border-bottom: 1px solid $border-color;
+    display: flex;
+    float: left;
+
+    a, .page-title {
+      display: inline-block;
+    }
+
+    .page-title {
+      font-size: 1.2em;
+      margin-bottom: 1em;
+      width: 100%;
+    }
+
+    a {
+      padding: 2em 3em;
+      border: 1px solid rgba(255, 255, 255, 0);
+      text-align: center;
+      width: 50%;
+    }
+
+    i {
+      vertical-align: middle;
+    }
+  }
+}

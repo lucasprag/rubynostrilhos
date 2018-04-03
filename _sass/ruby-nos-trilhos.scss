@@ -8,7 +8,7 @@
 @import 'base/utility';
 
 // Posts
-@import 'layouts/posts';
+@import 'layouts/post';
 @import 'layouts/index';
 @import 'layouts/page';
 @import 'layouts/tags';
@@ -20,3 +20,4 @@
 @import 'includes/post_nav';
 @import 'includes/navbar';
 @import 'includes/twitter';
+@import 'includes/comments';
