@@ -15,3 +15,5 @@ _development_tool
 
 Gemfile.lock
 *.gem
+
+.idea
