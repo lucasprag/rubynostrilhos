@@ -4,13 +4,10 @@ layout: default
 
 <div class="home">
   {% if site.theme_settings.header_text %}
-  <div id="main" class="call-out"
-    style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
-    {{ site.theme_settings.header_text }}
+  <div id="main" class="call-out" style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+    <h3><span class="title">Ruby on Rails</span> e muito mais em pt-br.</h3>
   </div>
   {% endif %}
-
-  {% include newsletter.html %}
 
   <div class="posts">
     {% for post in paginator.posts %}

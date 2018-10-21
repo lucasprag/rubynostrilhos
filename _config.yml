@@ -1,6 +1,5 @@
-# SITE CONFIGURATION
 baseurl: ""
-url: "http://rubynostrilhos.com.br"
+url: "https://rubynostrilhos.com.br"
 title: "Ruby nos trilhos"
 author: "Lucas Oliveira"
 description: "Ruby on Rails e muito mais em pt-br."
@@ -9,43 +8,19 @@ toggles:
   thumbnails: false
 
 theme_settings:
-  title: "Ruby nos trilhos"
   avatar: "assets/img/rubynostrilhos.jpg"
   favicon: "assets/favicon.ico"
-  gravatar: # Email MD5 hash
   description: "Blog sobre Ruby on Rails, carreira, devops e muito mais em pt-br."
-
-  header_text: >
-     <h3><span class="title">Ruby on Rails</span> e muito mais em pt-br.</h3>
-  footer_text: >
-    "O futuro do Ruby é brilhante, mas depende de nós." <a href="https://twitter.com/rafaelfranca">Rafael França</a>
 
   # Icons
   rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
   facebook: "rubynostrilhos"
-  flickr:
-  gitlab:
   github: "rubynostrilhos"
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
   twitter: "rubynostrilhos"
-  wordpress:
-  youtube:
 
-  # Scripts / Features
   google_analytics: "UA-110013614-1"
   disqus_shortname: ruby-nos-trilhos
+
   katex: false # Enable if using math markup
   search: false
   tags: true
