@@ -13,7 +13,6 @@ _development_tool
 *.css.map
 *.scssc
 
-Gemfile.lock
 *.gem
 
 .idea
