@@ -7,4 +7,4 @@ gem 'jekyll-paginate', '~> 1.1'
 gem 'jekyll-seo-tag', '~> 2.3'
 
 gem 'bundler', '~> 1.12'
-gem 'rake', '~> 10.0'
+gem 'rake', '~> 12.3'
